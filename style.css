@@ -1,0 +1,23 @@
+#body
+{
+    background-image: linear-gradient(#fff700 0% ,#ff96e7 60% , #cd16f2 100% ) ;
+    background-size: cover;
+    backface-visibility: visible;
+}
+#family
+{
+    color: black;
+    text-decoration: underline;
+    text-shadow: white;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 40px;
+}
+#Quote
+{
+    font-weight: bold;
+    font-family: cursive;
+    color: whitesmoke;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
